@@ -1,5 +1,0 @@
----
-tags:
-  - town
-meta-links:
----

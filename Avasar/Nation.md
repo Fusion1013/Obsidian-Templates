@@ -1,5 +1,0 @@
----
-tags:
-  - nation
-meta-links:
----
