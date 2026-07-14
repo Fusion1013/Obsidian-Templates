@@ -1,3 +1,13 @@
+---
+date:
+start_location:
+end_location:
+tags:
+  - session_note
+  - shadows_of_ohkyr
+intro:
+---
+
 # Characters
 ```dataview
 TABLE
